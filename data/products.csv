@@ -1,0 +1,31 @@
+﻿product_id,product_name,category,unit_cost,list_price
+2001,Notebook,Office Supplies,1233.08,2255.05
+2002,Pen Set,Office Supplies,5254.15,6412.43
+2003,Desk Organizer,Office Supplies,4112.77,5262.25
+2004,Printer Paper,Office Supplies,2096.60,2997.23
+2005,Stapler,Office Supplies,2114.81,3670.21
+2006,Folder Pack,Office Supplies,2052.43,2723.87
+2007,Wireless Mouse,Electronics,2915.23,4578.92
+2008,Keyboard,Electronics,3602.62,6641.10
+2009,USB Hub,Electronics,754.00,1209.00
+2010,Webcam,Electronics,3804.62,6429.55
+2011,Headset,Electronics,135.06,231.37
+2012,SSD Drive,Electronics,751.47,1064.45
+2013,Office Chair,Furniture,1711.38,2536.96
+2014,Desk Lamp,Furniture,4038.06,5845.29
+2015,Monitor Riser,Furniture,246.53,314.23
+2016,Filing Cabinet,Furniture,3166.89,5182.96
+2017,Small Desk,Furniture,3616.64,4680.29
+2018,Bookshelf,Furniture,4568.85,6510.28
+2019,Shipping Box,Packaging,1693.02,2316.99
+2020,Bubble Wrap,Packaging,4492.30,7067.83
+2021,Packing Tape,Packaging,3552.08,5551.11
+2022,Mailer Bag,Packaging,5833.87,9981.95
+2023,Label Roll,Packaging,130.72,165.99
+2024,Protective Foam,Packaging,5105.40,6261.50
+2025,Surface Cleaner,Cleaning,4278.80,5967.31
+2026,Hand Soap,Cleaning,1955.29,2822.31
+2027,Microfiber Cloth,Cleaning,354.88,609.96
+2028,Trash Bags,Cleaning,5276.30,6503.48
+2029,Disinfectant,Cleaning,2124.45,3509.07
+2030,Paper Towels,Cleaning,3992.98,5738.83
